@@ -1,31 +1,30 @@
 ### 
 
-<!--
-**akshayrajputttt/akshayrajputttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="left">Hi 👋! My name is Akshay Rajput and I'm a web developer</h2>
 
 ###
+### 
+<div align="center"></div>  
+  
+
+- 🔭 I’m currently working on *Frontend development*
+  
+
+- 🌱 I’m currently learning Backend development  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies
+
+- 🔭 Checkout my [resume](https://drive.google.com/file/d/1-QjKW9kDT0peuJ5hJjiAKv3sPDH5OCAC/view?usp=sharing) 
+  
+- 🌟 Believe you can and you're halfway there.  
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -59,8 +58,6 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
- <a href="https://www.linkedin.com/in/akshaypundirr/">Linkedln</a>
-
          
 ###
 
@@ -70,6 +67,15 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/akshaypundirr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaypundirr/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshayrajputttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshayrajputttt" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 
 
+ 
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+ 
